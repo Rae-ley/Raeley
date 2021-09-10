@@ -23,4 +23,4 @@ Tech skills:
 - Javascript
 - Git bash
 
-I'm using github to store all my personal projects and professional portfolio; I'm hoping that I will build confidence to where I feel comfortable contributing to the community, but for now I'm just here to learn 
+
