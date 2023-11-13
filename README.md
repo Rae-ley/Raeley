@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hi, I'm Rae 
 
-📊 Data Analyst Student
-📈 Productivity Technician
+📊 BSc Data Analytics
+📈 Senior Business Intelligence Developer
 
 Tech skills:
 
