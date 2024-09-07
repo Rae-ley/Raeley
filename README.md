@@ -9,7 +9,7 @@
 X-Rae/X-Rae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 👋 Hi, I'm @Rae-ley
+## 👋 Hi, I'm Rae
 
 📊 BSc Digital Technology Solutions : Data Analytics
 📈 Data Engineer
