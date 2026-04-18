@@ -24,8 +24,6 @@ Some of the technical skills I've picked up along the way are:
 - BigQuery
 - Matillion ETL
 - Python
-- Java
-- Javascript
 - Git bash
 
 
