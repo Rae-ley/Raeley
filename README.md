@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 👋 Hi, I'm Rae
 
-📊 BSc Digital Technology Solutions : Data Analytics
+📊 BSc Digital Technology Solutions - Data Analytics Pathway  
 📈 Data Engineer
 
-I love all things information. The data that helps us form opinons, answer questions, And how it gets from source systems into a form that can be used by your everyday person. 
+I love all things information. The data that helps us form opinions, answer questions, And how it gets from source systems into a form that can be used by your everyday person. 
 
 I've come all the way from Electrical Engineering, through to programming and then data. The bit that interests me is the gubbins behind the scene.
 
